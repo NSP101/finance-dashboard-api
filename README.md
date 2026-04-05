@@ -1,6 +1,6 @@
 # Finance Data Processing and Access Control System
 
-Full-stack finance dashboard with role-based access control, built as part of a backend developer internship assessment.
+Full-stack finance dashboard system with role-based access control, financial records management, and analytics APIs. Built with Node.js, Express, SQLite, and React.
 
 ---
 
