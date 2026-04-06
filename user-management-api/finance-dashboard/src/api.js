@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const api = axios.create({ baseURL: 'http://localhost:3000/api' })
+const api = axios.create({ baseURL: 'https://finance-dashboard-api-g0ja.onrender.com/api' })
 
 api.interceptors.request.use(cfg => {
   const token = localStorage.getItem('token')
