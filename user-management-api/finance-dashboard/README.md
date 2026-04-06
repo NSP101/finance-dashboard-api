@@ -44,7 +44,8 @@ finance-dashboard/
 
 ### Prerequisites
 - Node.js v18+
-- Backend API running on `http://localhost:3000` or `https://finance-dashboard-api-g0ja.onrender.com`
+- Backend API running on `http://localhost:3000` or live at `https://finance-dashboard-api-g0ja.onrender.com`
+- Live API Docs: `https://finance-dashboard-api-g0ja.onrender.com/api-docs`
 
 ### Steps
 

@@ -48,7 +48,8 @@ npm run dev
 ```
 
 Backend: `http://localhost:3000`
-API Docs: `http://localhost:3000/api-docs`
+API Docs (local): `http://localhost:3000/api-docs`
+API Docs (live): `https://finance-dashboard-api-g0ja.onrender.com/api-docs`
 
 ### 2. Start the Frontend
 
