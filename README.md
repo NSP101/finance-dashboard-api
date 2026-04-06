@@ -10,7 +10,15 @@ This project implements a complete finance dashboard backend with a React fronte
 
 ---
 
-## Architecture
+## Live Demo
+
+| Service | URL |
+|---------|-----|
+| Frontend | https://finance-dashboard-api-3zya.vercel.app |
+| API Docs (Swagger) | https://finance-dashboard-api-g0ja.onrender.com/api-docs |
+| Backend API | https://finance-dashboard-api-g0ja.onrender.com |
+
+---
 
 ```
 ┌─────────────────────────────────────────────┐
