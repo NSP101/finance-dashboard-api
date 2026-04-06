@@ -69,7 +69,8 @@ npm run dev
 ```
 
 - API runs at: `http://localhost:3000`
-- Swagger docs at: `http://localhost:3000/api-docs`
+- Swagger docs (local): `http://localhost:3000/api-docs`
+- Swagger docs (live): `https://finance-dashboard-api-g0ja.onrender.com/api-docs`
 
 ---
 

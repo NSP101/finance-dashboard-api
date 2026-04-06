@@ -95,4 +95,4 @@ node seed.js
 
 - [Backend README](./user-management-api/README.md) — API endpoints, data models, setup
 - [Frontend README](./user-management-api/finance-dashboard/README.md) — UI features, component structure
-- [Swagger UI](http://localhost:3000/api-docs) — Interactive API documentation
+- [Swagger UI](https://finance-dashboard-api-g0ja.onrender.com/api-docs) — Interactive API documentation (Live)
